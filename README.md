@@ -20,6 +20,12 @@ Resume - [Resume](https://drive.google.com/file/d/14MzoZZAIgEc741OXFeyZfYSbwIDrb
 
 Primary Spoken Language: English
 
+## Courses related to rescpective idea:
 
-# Chosen Idea: Agora Blockchain
+LearnWeb3Dao: 
+
+ALchemy: 
+
+
+# Choosen Idea: Agora Blockchain
 
