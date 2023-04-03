@@ -157,8 +157,21 @@ I am currently not committed to any other projects or obligations during the GSo
 
  I plan to dedicate at least 15 hours per week to this project.
  
+
+# About Me
+
+I'm Yash Dewasthale, a 3rd year Electrical Engineering student from MITS College Gwalior, India, and a passionate web3 and open source DevRel. I'm currently working as a web3 freelancer and dedicating my work to the open source and developer communities. I'm also the founder of BuildersChain, a developer community focused on open source web3 and DevRel. Our mission is to help developers get familiar with open source and web3, and we host a variety of events to help community members learn from experts and professionals.
+
+In addition to my community work, I'm a skilled web3 developer with technical expertise in JS, NodeJS, Solidity, EtherJS, Web3JS, Ganache, Etherscan, and Alchemy API. I'm currently working with Alchemy as a Growth Contractor, where I'm helping the team and community grow faster and better. My work with Alchemy has given me deep insights into the Ethereum ecosystem and helped me develop a deep understanding of how to optimize blockchain-based applications.
+
+Currently, I'm also working on a decentralized exchange platform DApp with my community, leveraging my skills in Alchemy API, Solidity, Web3JS, and other blockchain technologies to create an innovative and user-friendly platform that can empower users to exchange tokens in a decentralized and secure manner.
+ 
  
 # My Technical Blogs
 
 <a href="https://yashdev9274.hashnode.dev/erc-20-token-the-key-to-the-ethereum-ecosystem" title="https://yashdev9274.hashnode.dev/erc-20-token-the-key-to-the-ethereum-ecosystem"><strong>ERC-20 Token: The Key To The Ethereum Ecosystem
 </strong></a>
+
+<br>
+
+<a href="https://yashdev9274.hashnode.dev/the-power-of-community-how-collaboration-and-open-source-helped-me-thrive" title="https://yashdev9274.hashnode.dev/the-power-of-community-how-collaboration-and-open-source-helped-me-thrive"><strong>The Power of Community: How Collaboration and Open Source Helped Me Thrive</strong></a>
