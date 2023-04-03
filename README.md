@@ -158,3 +158,7 @@ I am currently not committed to any other projects or obligations during the GSo
  I plan to dedicate at least 15 hours per week to this project.
  
  
+# My Technical Blogs
+
+<a href="https://yashdev9274.hashnode.dev/erc-20-token-the-key-to-the-ethereum-ecosystem" title="https://yashdev9274.hashnode.dev/erc-20-token-the-key-to-the-ethereum-ecosystem"><strong>ERC-20 Token: The Key To The Ethereum Ecosystem
+</strong></a>
