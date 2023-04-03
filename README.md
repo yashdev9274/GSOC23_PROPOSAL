@@ -175,3 +175,14 @@ Currently, I'm also working on a decentralized exchange platform DApp with my co
 <br>
 
 <a href="https://yashdev9274.hashnode.dev/the-power-of-community-how-collaboration-and-open-source-helped-me-thrive" title="https://yashdev9274.hashnode.dev/the-power-of-community-how-collaboration-and-open-source-helped-me-thrive"><strong>The Power of Community: How Collaboration and Open Source Helped Me Thrive</strong></a>
+
+
+# Why I'm sutible for this project?
+
+Based on my previous experiences with Solidity, Reactjs, and open-source projects, I believe that I am a strong fit for this Election DApp project. I have worked on similar projects in the past, and I am very familiar with the tech stack used in this project, such as Ganache, Metamask, and Web3.
+
+My technical expertise in JS, NodeJS, Solidity, EtherJS, Web3JS, Ganache, Etherscan, Alchemy API, and more allows me to understand and work efficiently on complex projects. Additionally, I am currently working as a Web3 developer and a Growth contractor at Alchemy, which has helped me to get an in-depth understanding of web3 technologies and the decentralized ecosystem.
+
+Moreover, as a developer community founder at BuildersChain, I have a passion for contributing to open-source projects and helping developers get familiar with web3 and Devrel. My experience in maintaining proper documentation for every project that I have worked on makes me an ideal candidate for this project.
+
+Overall, I am confident that my experience and technical expertise make me a strong candidate for this project, and I am excited to contribute to its success.
