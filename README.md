@@ -122,17 +122,20 @@ Use this buffer week for unexpected delays and to finalize GSoC submissions.
 
 Programming Skills:
 
- >  - Proficient in Solidity
- >  - Fluent in C++, Python
- > - Good knowledge of HTML, CSS, JS, and Reactjs
- > - Experience with Alchemy API, Web3.js, and Ether.js
- > - Familiarity with various blockchain frameworks including Truffle, Ganache, Remix, and Embark
+ >  - Proficient in Solidity.
+ >  - Fluent in C++, Python.
+ > - Good knowledge of HTML, CSS, JS, and Nodejs.
+ > - Experience with Alchemy API, Web3.js, and Ether.js.
+ > - Familiarity with various blockchain frameworks including Truffle, Ganache, Remix, and Embark.
+ > - Experience in developing and deploying decentralized applications (dApps) on Ethereum or other blockchain networks
+
 
 Blockchain Skills:
 
- > - Good understanding of blockchain fundamentals such as consensus, cryptography, and smart contracts
- > - Knowledge of blockchain development tools like Solidity, Metamask, Web3.js, and Infura
- > - Completed a Blockchain specialization course from Buffalo University
- > - Experience in designing and implementing smart contracts on Ethereum
- > - Understanding of blockchain security and best practices
+ > - Good understanding of blockchain fundamentals such as consensus mechanisum, cryptography, and smart contracts.
+ > - Knowledge of blockchain development tools like Solidity, Metamask, Web3.js, and Infura.
+ > - Completing a blockchain specialization course from Alchemy University.
+ > - Experience with Ethereum blockchain APIs such as Etherscan and Infura.
+ > - Experience in designing and implementing smart contracts on Ethereum.
+ > - Understanding of blockchain security and best practices.
  > - Comfortable with Git and GitHub, and experienced in version control.
