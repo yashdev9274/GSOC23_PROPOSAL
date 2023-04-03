@@ -186,3 +186,6 @@ My technical expertise in JS, NodeJS, Solidity, EtherJS, Web3JS, Ganache, Ethers
 Moreover, as a developer community founder at BuildersChain, I have a passion for contributing to open-source projects and helping developers get familiar with web3 and Devrel. My experience in maintaining proper documentation for every project that I have worked on makes me an ideal candidate for this project.
 
 Overall, I am confident that my experience and technical expertise make me a strong candidate for this project, and I am excited to contribute to its success.
+
+
+# ** Thank for considering my proposal **
