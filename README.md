@@ -139,3 +139,22 @@ Blockchain Skills:
  > - Experience in designing and implementing smart contracts on Ethereum.
  > - Understanding of blockchain security and best practices.
  > - Comfortable with Git and GitHub, and experienced in version control.
+
+
+
+# Why I'm Choosing this project?
+
+I'm choosing this project because it aligns perfectly with my skills as a blockchain and web3 developer. The project involves creating a decentralized application (DApp) that allows users to conduct open or invite-based elections using different voting algorithms. I'm excited to be a part of this project because it will allow me to explore various blockchain technologies like Alchemy API, Ether.js, and Web3.js.
+
+The flexibility and user experience offered by this DApp also appeal to me. The open and invite-based features make it versatile, and it can be used for various types of elections. Additionally, being a part of an open-source community like AOSSIE gives me a chance to collaborate with other developers and work on exciting projects that can have a real-world impact.
+
+
+# Do you have any commitments during the GSoC Period?
+
+I am currently not committed to any other projects or obligations during the GSoC period, which means I am fully available to dedicate my time and effort towards contributing to this project.
+
+# How many hours will you work per week?
+
+ I plan to dedicate at least 15 hours per week to this project.
+ 
+ 
