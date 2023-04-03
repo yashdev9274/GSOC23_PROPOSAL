@@ -115,3 +115,24 @@ Complete any remaining work.
 3.6 Week 15:
 
 Use this buffer week for unexpected delays and to finalize GSoC submissions.
+
+
+
+# Skills 
+
+Programming Skills:
+
+ >  - Proficient in Solidity
+ >  - Fluent in C++, Python
+ > - Good knowledge of HTML, CSS, JS, and Reactjs
+ > - Experience with Alchemy API, Web3.js, and Ether.js
+ > - Familiarity with various blockchain frameworks including Truffle, Ganache, Remix, and Embark
+
+Blockchain Skills:
+
+ > - Good understanding of blockchain fundamentals such as consensus, cryptography, and smart contracts
+ > - Knowledge of blockchain development tools like Solidity, Metamask, Web3.js, and Infura
+ > - Completed a Blockchain specialization course from Buffalo University
+ > - Experience in designing and implementing smart contracts on Ethereum
+ > - Understanding of blockchain security and best practices
+ > - Comfortable with Git and GitHub, and experienced in version control.
